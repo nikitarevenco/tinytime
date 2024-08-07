@@ -1,6 +1,6 @@
 # tinytime
 
-![tinytime script output](https://github.com/user-attachments/assets/bfa1e1b8-63c6-47aa-a7cf-3de60bfd2cb9)
+![tinytime script output](https://github.com/user-attachments/assets/276a026f-d473-41c2-90b7-b681128eadd3)
 
 A clock for the minimalist.
 
